@@ -1,7 +1,6 @@
 import React from "react";
 import Hero from "../components/Hero";
 import Features from "../components/Features";
-import Doctors from "../components/Doctors";
 import AppointmentCTA from "../components/AppointmentCTA";
 import Testimonials from "../components/Testimonials";
 import Contact from "../components/Contact";
